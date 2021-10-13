@@ -1,1 +1,1 @@
-# **Anything Linux related.**
+# Anything Linux related.
