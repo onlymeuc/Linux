@@ -1,0 +1,8 @@
+# list all systemd service units
+systemctl list-units --type=service --all
+
+# poweroff the system
+systemctl poweroff
+
+# check the status of the firewalld service
+systemctl status firewalld.service
